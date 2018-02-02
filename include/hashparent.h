@@ -31,7 +31,7 @@ class PHPCPP_EXPORT HashParent
 protected:
     /**
      *  Protected constructor - users should not instantiate HashParent
-     *  objects themselved. Use a Value object instead.
+     *  objects themselves. Use a Value object instead.
      */
     HashParent() {}
 
